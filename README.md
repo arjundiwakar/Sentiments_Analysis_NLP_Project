@@ -1,1 +1,2 @@
 # Sentiments_Analysis_NLP_Project
+This project focuses on analyzing Amazon reviews of video games to gauge customer sentiment. Tasks include creating a dataset, building a dictionary-based sentiment analyzer, using advanced sentiment analysis with DistilBERT, and reporting findings to optimize marketing strategies for a startup's video game launch. The goal is to identify customer likes and dislikes regarding video games based on their reviews.
